@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: exampleSite/content/Posts/hello
-  label: hello
+- type: directory
+  path: exampleSite/content/posts/hello
+  label: Hello
+  create: all
+  match: "**/*"
 - type: heading
   label: Posts
 - type: heading
