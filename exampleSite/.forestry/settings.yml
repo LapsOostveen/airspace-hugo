@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/content/posts/hello
+  path: exampleSite/content/Posts/hello
   label: hello
 - type: heading
   label: Posts
