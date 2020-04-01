@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: exampleSite/content/posts/hello
   label: Hello
-  create: all
+  create: none
   match: "*"
 - type: heading
   label: Posts
