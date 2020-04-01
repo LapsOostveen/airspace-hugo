@@ -1,6 +1,7 @@
 ---
-title: "Latest News"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Latest News
+description: 'breaking: corona'
+bg_image: images/featue-bg.jpg
+
 ---
+hello this is a scam
